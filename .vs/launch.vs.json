@@ -1,0 +1,17 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "name": "CMakeLists.txt"
+    },
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "JsonPatserTest.exe (JsonPatserTest\\JsonPatserTest.exe)",
+      "name": "JsonPatserTest.exe (JsonPatserTest\\JsonPatserTest.exe)"
+    }
+  ]
+}

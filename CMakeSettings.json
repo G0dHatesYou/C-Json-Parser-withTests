@@ -1,0 +1,28 @@
+﻿
+          "name": "CMAKE_CXX_COMPILER",
+          "value": "arm-none-eabi-g++.exe"
+        },
+        {
+          "name": "CMAKE_C_FLAGS",
+          "value": "-nostartfiles"
+        },
+        {
+          "name": "CMAKE_CXX_FLAGS",
+          "value": "-nostartfiles -fno-rtti -fno-exceptions"
+        },
+        {dasdasds
+          "name": "CMAKE_CXX_STANDARD",
+          "value": "14"
+        },
+        {
+          "name": "CMAKE_SYSTEM_NAME",
+          "value": "Generic"
+        },
+        {
+          "name": "CMAKE_SYSTEM_PROCESSOR",
+          "value": "arm"
+        }
+      ]
+    }
+  ]
+}
